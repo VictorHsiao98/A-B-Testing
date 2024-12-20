@@ -1,3 +1,2 @@
 # A/B-Testing
-Useful Links:
-https://www.evanmiller.org/ab-testing/sample-size.html
+Evan Miller's Sample Size Calculator: https://www.evanmiller.org/ab-testing/sample-size.html
